@@ -1,2 +1,2 @@
-# Theoretical-Morphology
-Mathematica Notebooks for Theoretical Morphology
+# Mathematica-Notebooks
+Some useful Notebooks
