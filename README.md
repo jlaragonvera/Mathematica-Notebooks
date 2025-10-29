@@ -18,6 +18,6 @@ Details of the mathematical model, as well as the measurement process can be fou
 
 **BVAMMultiscalingAnalysis.nb** is a *Mathematica 14.3* Notebook where a muliscale nonlinear analysis is applied to the Barrio-Varea-Aragon-Maini reaction-diffusion model using the diffusion coefficiente as bifurcation parameter.
 
-## Coincidence Site Lattices of the planar hexagonal lattice
+## Coincidence Site Lattices of planar hexagonal lattices
 
 **HexagonalCSL.nb** is a *Mathematica 14.3* Notebook to calculate the coincidence index and a basis of the coincidence lattice of two planar hexagonal lattices with a twist angle defined by two integers p and q, using Theorem 4.6 in M.A. Rodríguez-Andrade et al. Adv. Appl. Clifford Algebras 25 (2015), 425-440.
